@@ -1,4 +1,8 @@
-iForce: AppleID Brute Forcer 
-Usage: python iForce.py
-    You Can Change The Target Email From : mailist.txt
-    You Can Change The Password List From : passlist.txt
+
+iForce – An AppleID Brute Forcer
+
+
+    Change The Target Email From: mailist.txt
+    Change The Password List From: passlist.txt
+    
+Usage: Python git clone https://github.com/MohamedNourTN/iForce && cd iForce python iForce.py
